@@ -1,4 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Solstafir Next.js Project
+
+This repository contains [Next.js](https://nextjs.org/) project with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). dedicated to my favorite band, Solstafir. The purpose of this project is to enhance my understanding of Next.js from building to deployment, while also paying homage to the band I idolize.
+
+## About Solstafir
+
+Solstafir is an Icelandic post-metal band known for their atmospheric soundscapes and emotional lyrics. With their unique blend of post-rock, black metal, and psychedelic influences, they have garnered a dedicated fanbase worldwide.
+
+## Project Overview
+
+This Next.js project serves as a tribute to Solstafir, featuring various sections dedicated to the band's music, history, and upcoming events. Utilizing Next.js, I aim to create a seamless user experience while showcasing my skills in building web applications.
+
+## Technologies Used
+
+- Next.js
+- React.js
+- CSS Modules
+- Vercel (for deployment)
+
+## Features
+
+- About section providing insights into the band's history and members.
+- Showcasing Solstafir's discography and latest releases.
+- News for ongoing event and project band
+- Contact page for fans to connect and share their love for Solstafir.
+
+## Deployment
+
+The project is deployed using Vercel, ensuring fast and reliable hosting for seamless user experience. Continuous improvements and updates will be made to enhance the project's functionality and performance.
+
+## Feedback
+
+I welcome any feedback or criticism to improve my skills and the project itself. Feel free to submit suggestions or report any issues you encounter while exploring the Solstafir Next.js project.
+
+---
 
 ## Getting Started
 
