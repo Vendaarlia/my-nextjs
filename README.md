@@ -10,6 +10,10 @@ Solstafir is an Icelandic post-metal band known for their atmospheric soundscape
 
 This Next.js project serves as a tribute to Solstafir, featuring various sections dedicated to the band's music, history, and upcoming events. Utilizing Next.js, I aim to create a seamless user experience while showcasing my skills in building web applications.
 
+## Demo
+
+https://my-nextjs-dun.vercel.app/
+
 ## Technologies Used
 
 - Next.js
