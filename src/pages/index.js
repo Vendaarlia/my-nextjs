@@ -14,13 +14,13 @@ const inter = Inter({ subsets: ["latin"] });
 export default function Home() {
   return (
    <>
-   {/**<Head>
+   <Head>
     <title>VENDAARLIA</title>
     <meta name="description" content="vendaarlia portofolio" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
     <link rel="icon" href="favicon.ico" type="image/x-icon" />
-  </Head>*/}
+  </Head>
    <div>
     <Hero />
     <About />

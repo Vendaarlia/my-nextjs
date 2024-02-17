@@ -1,14 +1,15 @@
 import Link from "next/link";
+import Image from 'next/image';
 
 const Navbar = () => {
     return (
         <div className="nav-container">
             <div className="logo">
                 <Link href="/">
-                    VENDAARLIA
+                    <img src='https://solstafir.is/zinc/logo/goldsolstafir-logo@2x.png' width={80} className='logo-brand' />
                 </Link>
             </div>
-            <a href="" className="cta-btn"></a>
+            <a href="https://www.impericon.com/de/solstafir.html" className="cta-btn">MERCH</a>
         </div>
     )
 }
