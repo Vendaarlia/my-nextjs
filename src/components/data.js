@@ -1,37 +1,42 @@
 export const projectData = [
     {
       id: 1,
-      title: 'Todo List App',
+      date: 'Sun, November 08, 2020',
+      title: 'Endless Twilight of Codependent Love - Track by Track on Apple Music',
       description:
-        'A simple Todo List App built with JavaScript. All datas are stored in localstorage. It helps users check list out their plans and tick as they do them.',
-      gitHubLink: 'https://github.com/olawanlejoel/Todo-List-App',
+        'Packed with tales of murder, suicide, and revenge, the seventh album from Iclandic metal cowboys Solstafir is what you might call the opposite of sunny. "it a really dark...',
+      gitHubLink: 'https://solstafir.is/news/endless-twilight-of-codependent-love-track-by-track-on-apple-music',
     },
     {
       id: 2,
-      title: 'Books Library App',
+      date: 'Wed, November 04, 2020',
+      title: 'Metal Insider: ‘Endless Twilight of Codependent Love’ is a melancholy masterpiece',
       description:
-        'A simple Book Library App built with JavaScript. It helps readers have a good list of books they are either currently reading or have finished reading.',
-      gitHubLink: 'https://github.com/olawanlejoel/Book-Library',
+        'Iceland is home to many bands and musical acts and once boasted about having the “highest number of musicians” per capita. There are indeed so many great bands in Iceland, but none of…',
+      gitHubLink: 'https://solstafir.is/news/metal-insider-endless-twilight-of-codependent-love-is-a-melancholy-masterpiece',
     },
     {
       id: 3,
-      title: 'Quotes Generator',
+      date: 'Wed, November 04, 2020',
+      title: 'More Cowbell: A Conversation With ‘Grimsi’ of SÓLSTAFIR',
       description:
-        'Helps you generate quotes from about 1600 quotes written by different authors . Quotes are automatically copied to your clipboards.',
-      gitHubLink: 'https://github.com/olawanlejoel/random-quote-generator',
+        'It is beyond doubt that Icelandic Post-Metal/Rock outfit SÓLSTAFIR are different. Since their inception some 25 years ago (yes, that long!), they have forged their own identity. With a…',
+      gitHubLink: 'https://solstafir.is/news/more-cowbell-a-conversation-with-grimsi-of-solstafir',
     },
     {
       id: 4,
-      title: 'Password Generator',
+      date: 'Wed, November 04, 2020',
+      title: 'Sólstafir’s Endless Twilight Of Codependent Love: Metal Hammer Review',
       description:
-        'Helps you generates random passwords, you can select what you want your password to entail and also you can copy generated password to clipboard.',
-      gitHubLink: 'https://github.com/olawanlejoel/Password-Generator',
+        'Icelandic enigmas Sólstafir fuse the intimate and the epic on new album Endless Twilight Of Codependent Love Sólstafir’s music doesn’t feel like it’s been written so much as…',
+      gitHubLink: 'https://solstafir.is/news/solstafirs-endless-twilight-of-codependent-love-metal-hammer-review',
     },
     {
       id: 5,
-      title: 'Twitter UI Clone',
+      date: 'Sat, October 07, 2017',
+      title: 'Solstafir with Arstidir and Myrkur - November - December Tour',
       description:
-        'Simple Twitter UI clone built with TailwindCSS and Vue Js. This covers only the homepage of Twitter UI. This is cool to get started with TailwindCSS as it helps understand basic concepts.',
-      gitHubLink: 'https://github.com/olawanlejoel/TwitterUI-clone',
+        'We are so excited to announce that our fellow country-mates Árstíðir will be joining us on our upcoming headlining tour of Europe, along with Myrkur. This tour is going to be something…',
+      gitHubLink: 'https://solstafir.is/news/solstafir-with-arstidir-and-myrkur-november-december-tour',
     },
   ];

@@ -1,9 +1,9 @@
 const Contact = () => {
     return (
         <div className="contact-container">
-            <h2>Get In Touch</h2>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste quis laboriosam magnam ullam deleniti consequatur rerum veniam dolorum vel ut sint alias et sunt corporis, corrupti, ad dolorem impedit libero!</p>
-            <a href="mailto:vendaarlia9@gmail.com" className="cta-btn">Say Hello</a>
+            <h2>Sólstafir</h2>
+            <p>“You can never foresee band magic,” declares Tryggvason. “The whole purpose of this is cooking up magic. And if you’re cooking up magic with four or five weirdos, you can never foresee what’s going to happen. You can’t buy that. You have to live it or grow it.”</p>
+            <a href="mailto:Sólstafir@solstafir.is" className="cta-btn">Cast a Spell</a>
         </div>
     )
 }

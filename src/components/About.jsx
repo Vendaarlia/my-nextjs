@@ -3,7 +3,7 @@ import Image from "next/image";
 
 function About() {
   return (
-    <div className="abou-container">
+    <div className="about-container">
         <h2>About Me</h2>
         <div className="flex-about">
             <div className="about-text">
@@ -16,7 +16,7 @@ function About() {
                 </p>
             </div>
             <div className="about-img">
-                <Image src='/images/new release.jpg' className='profilr-img' width={300} alt="new release" />
+                <Image src='/images/new release.jpg' className='profilr-img' width={600} height={500} alt="new release" />
             </div>
         </div>
     </div>

@@ -287,31 +287,12 @@ hr {
   font-size: 1.5rem;
 }
 
-.skills-container .grid-skills .html:hover {
-  background-color: #E34F26;
-}
-
-.skills-container .grid-skills .css:hover {
-  background-color: #264DE4;
-}
-
-.skills-container .grid-skills .js:hover {
-  background-color: #F7DF1E;
-}
-
-.skills-container .grid-skills .react:hover {
-  background-color: #61DAFB;
-}
-
-.skills-container .grid-skills .node:hover {
-  background-color: #339933;
-}
-
-.skills-container .grid-skills .python:hover {
-  background-color: #3776AB;
+.skills-container .grid-skills .skill-card:hover {
+  background-color: #c8b876;
 }
 
 /* Projects */
+
 .projects-container {
   padding: 2rem 0;
 }
@@ -349,7 +330,7 @@ hr {
 
 .project-card .folder-icon {
   font-size: 35px;
-  color: #FFCC17;
+  color: #c9b978;
 }
 
 .project-header .small-icons {
@@ -358,21 +339,27 @@ hr {
 }
 
 .project-card .small-icons a {
+  font-size: 25px;
   margin-right: 5px;
   cursor: pointer;
   transition: all .5s ease;
 }
 
 .project-card .small-icons a:hover {
-  color: #FFCC17;
+  color: #c9b978;
 }
 
-.project-card .project h3 {
-  font-size: 20px;
+.project-card .project-date {
+  font-size: 14px;
+  color: #b3b3b3;
+}
+
+.project-card .project-title {
+  font-size: 25px;
   margin-bottom: 10px;
 }
 
-.project-card .project p {
+.project-card p {
   font-size: 16px;
   margin-bottom: 10px;
   color: #b3b3b3;

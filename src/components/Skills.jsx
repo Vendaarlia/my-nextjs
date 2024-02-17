@@ -3,27 +3,35 @@ import React from 'react'
 function Skills() {
   return (
     <div className="skills-container">
-        <h2>Skills</h2>
+        <h2>Discography</h2>
         <div className="grid-skills">
             <div className="skill-card html">
-                <i className='fa-brand fa-html5 html-icon'></i>
-                <p>HTML</p>
+                <i class="fa-solid fa-music"></i>
+                <p>Í Blóði og Anda, 2002 (Ars Metalli)</p>
             </div>
             <div className="skill-card css">
-                <i className='fa-brand fa-css-alt css-icon'></i>
-                <p>CSS</p>
+                <i class="fa-solid fa-music"></i>
+                <p>Masterpiece of Bitterness, 2005 (Spinefarm Records)</p>
             </div>
             <div className="skill-card js">
-                <i className='fa-brand fa-js-square js-icon'></i>
-                <p>JavaScript</p>
+                <i class="fa-solid fa-music"></i>
+                <p>Köld, 2009 (Spinefarm Records)</p>
             </div>
             <div className="skill-card react">
-                <i className='fa-brand fa-react react-icon'></i>
-                <p>REACT</p>
+                <i class="fa-solid fa-music"></i>
+                <p>Svartir Sandar, 2011 (Season of Mist)</p>
             </div>
             <div className="skill-card gsap">
-                <i className='fa-brand fa-gsap gsap-icon'></i>
-                <p>GSAP</p>
+                <i class="fa-solid fa-music"></i>
+                <p>Ótta, 2014 (Season of Mist)</p>
+            </div>
+            <div className="skill-card gsap">
+                <i class="fa-solid fa-music"></i>
+                <p>Berdreyminn, 2017 (Season of Mist)</p>
+            </div>
+            <div className="skill-card gsap">
+                <i class="fa-solid fa-music"></i>
+                <p>Endless Twilight of Codependent Love, 2020 (Season of Mist)</p>
             </div>
         </div>
     </div>
