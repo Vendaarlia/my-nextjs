@@ -2,22 +2,22 @@
 
 This repository contains [Next.js](https://nextjs.org/) project with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). dedicated to my favorite band, Solstafir. The purpose of this project is to enhance my understanding of Next.js from building to deployment, while also paying homage to the band I idolize.
 
+This Next.js project as a showcase for me in creating dynamic elements where I use the .map() method to take a value from the data.js file and it will be displayed according to the index of the value in it so that we can add values/data easily, just need to do it in in the data.js file so it will be very easy to develop this project in the future.
+
 ## About Solstafir
 
 Solstafir is an Icelandic post-metal band known for their atmospheric soundscapes and emotional lyrics. With their unique blend of post-rock, black metal, and psychedelic influences, they have garnered a dedicated fanbase worldwide.
 
-## Project Overview
-
-This Next.js project serves as a tribute to Solstafir, featuring various sections dedicated to the band's music, history, and upcoming events. Utilizing Next.js, I aim to create a seamless user experience while showcasing my skills in building web applications.
-
 ## Demo
 
-https://my-nextjs-dun.vercel.app/
+[Solstafir](https://my-nextjs-dun.vercel.app/)
+
 
 ## Technologies Used
 
 - Next.js
 - React.js
+- JavaScript Array map() Method
 - CSS Modules
 - Vercel (for deployment)
 
